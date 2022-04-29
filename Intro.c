@@ -4,7 +4,7 @@
 void instructions()
 {
     printf("\n--------------------");
-    printf("\n@author: eimon - April 2022");
+    printf("\neimon (c) April 2022");
     printf("\n--------------------\n\n");
     printf("------------------------------------------------------------------------------------------------------\n");
     printf("Usage vbs2exe <filename> \n\
