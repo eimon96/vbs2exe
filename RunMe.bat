@@ -1,0 +1,1 @@
+gcc vbs2exe.c FileInputUtils.c FileOutputUtils.c Intro.c -o vbs2exe.exe
