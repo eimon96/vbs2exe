@@ -8,7 +8,7 @@ VBScript to executable for Windows 10
 
 vbs2exe requires [GCC](https://sourceforge.net/projects/mingw/) version 6.3.0+ to run.
 
-After gcc installation, if you building the source code run the _RunMe.bat_ file, otherwise read _usage_ section.
+After gcc installation, if you are building the source code run the _RunMe.bat_ file, otherwise read _usage_ section.
 
 -------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ Open cmd into the same directory of the vbs2exe.exe file and type:
 vbs2exe <filename>
 ```
 
-Where <filename> the name of the VBS file you would like to convert into the EXE.
+Where &lt;filename&gt; the name of the VBS file you would like to convert into the EXE.
 The file extension is optional. Name must be 20 characters long max.
 
 Make sure the VBS file you want to convert is in the same directorry as the vbs2exe.exe file.
