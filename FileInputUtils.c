@@ -40,7 +40,7 @@ unsigned int get_file_size(char fname[])
 }
 
 // open, read file, save content into string variable
-void get_file_content(char fname[],char content[], unsigned int flen)
+void get_file_content(char fname[],char content[])
 {
     FILE *fp;
     fp = fopen(fname, "r");
