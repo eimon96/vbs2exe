@@ -1,0 +1,1 @@
+CreateObject("InternetExplorer.Application").visible=true
