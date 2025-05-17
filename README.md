@@ -49,4 +49,8 @@ The output on all those cases will be whatever.exe
 
 -------------------------------------------------------------------
 
- @author: eimon 😷
+## _Contributors_
+
+<img src="https://github.com/eimon96.png" width="48"> <img src="https://github.com/1dao.png" width="48">
+
+@author: eimon 😷
